@@ -1,3 +1,10 @@
+# Корректная работа с API
+
+Для корректной работы API нужно создать .env файл в корневой папке проекта со следующим наполнением:
+
+VITE_API_URL=http://123.123.12.12:1231/test    <-- Ваш URL
+VITE_API_VERSION=v1
+
 # Biosmart_Test
 
 This template should help get you started developing with Vue 3 in Vite.
